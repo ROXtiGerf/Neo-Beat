@@ -53,7 +53,7 @@
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-*No. *
+*No. We will invite local artists first, and then hold a series of online concerts. For now, we expend our music library by adding free music.*
 
 ## (13) What challenges do you anticipate with this project?
 
