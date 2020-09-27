@@ -3,35 +3,37 @@
 
 ## (0) Project Name and Team Slack Handles
 
-*Please tell us your project's name and the Filecoin Slack handles for your teammates.*
+*Project name: Neo Beat*
+
+*Slack Handle: WhatCoin*
 
 ## (1) Brief Project Description
 
-*Add your project's description here.*
+* 'Neo Beat' is a new new generation music player. The aim to develop this application is to let everyone share their music on it. Beside, there is also comment board under each music and the composer can talk to their fans.  *
 
 ## (2) Link to Project UI
 
-*Please include a link to your project application or UI. It does not need to be super polished or completely functional. We will be reviewing this link periodically to verify that your project is eligible for final rewards.*
+*http://impool.com/NeoBeat/#/ (need toggle device toolbar) *
 
 ## (3) What does your application/UI do?
 
-*Give us a brief description of what your application/UI does and how users are intended to interact with it.*
+*'Neo Beat' is a music player. Users can find musics which are from a wider range of artists(you can be one of them!). What's more, user can talk under music, each song is also a chat room for listeners who enjoy the same song.*
 
 ## (4) If your project is using a curated dataset, which one are you using?
 
-*You can reference the [list of curated datasets in this repo](https://github.com/filecoin-project/slingshot/blob/master/datasets.md). If you'd like to use a dataset that is not on that list, please nominate your chosen dataset by updating the curated datasets table in this PR. If nominating a dataset, do you own or have exclusive rights to the data you plan to use?*
+*[Free Music Archive](https://github.com/mdeff/fma).*
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-*What sorts of data will you collect? Do you own or have exclusive rights to the data you plan to use? Is the data license available online? Does the data contain any sensitive or illegal information?*
+**
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
-*Give us as realistic an estimate as you possibly can at this stage. We understand it's impossible to have perfect information before really starting your project!*
+*1T-10T*
 
 ## (7) How are you structuring the data?
 
-*Is this structured or unstructured data? What data formats, schemas, etc. does this dataset follow?*
+*Mp3 with lable of the album and composer. Also a database for chat room(under developing)*
 
 ## (8) What pre-processing are you doing before ingesting the data?
 
@@ -47,12 +49,12 @@
 
 ## (11) Who is the intended user for your application/UI?
 
-*Who do you anticipate will use your project/dataset?*
+*For people who wants listen more folk music, expreeses thoughts and makes friends.*
 
 ## (12) Do you have any users already or plans to acquire users soon?
 
-*Yes/no. Also, please tell us a little bit about your future plans for user acquisition.*
+*No. *
 
 ## (13) What challenges do you anticipate with this project?
 
-*We'd love to know what you're most worried about so we can help as much as possible. Let us know what you anticipate to be the biggest challenges with this project!*
+*The copyright related stuff. We need to consider more carefully about contracts for different artists so that their copyright are well protected.*
