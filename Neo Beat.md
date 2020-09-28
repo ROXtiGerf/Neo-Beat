@@ -37,7 +37,7 @@
 
 ## (8) What pre-processing are you doing before ingesting the data?
 
-*We will great a table to hold the text content for songs.*
+*We will creat tables to hold the text content for songs.*
 
 ## (9)  What tech stack will you use to store the data?
 
