@@ -25,7 +25,7 @@
 
 ## (5) If your project is not using a curated dataset, please tell us a little bit more about your data by answering the questions below.
 
-**
+*N/A*
 
 ## (6) How much data are you planning to store to the Filecoin network during the Slingshot competition?
 
@@ -37,15 +37,15 @@
 
 ## (8) What pre-processing are you doing before ingesting the data?
 
-*How will you prepare this data for ingestion into Filecoin? What size storage deals will you be making? If this is a tabular dataset or directory structure, how will you maintain indices into the data so you can retrieve specific data as needed for your application? This is currently one of the most important steps to being successful with data storage on Filecoin. Feel free to ask for help and/or look at docs for recommendations!*
+*We will great a table to hold the text content for songs.*
 
 ## (9)  What tech stack will you use to store the data?
 
-*Either: Powergate, Hosted Powergate, Textile Hub/Buckets, lotus, or some other solution. Tell us what you're planning to use and how.*
+*Powergate. We will use it like a API*
 
 ## (10) How will you retrieve the data?
 
-*Share some more information about the data retrieval plans for your application? How often does the data need to be retrieved? What is the size of each individual read? Do you need to retrieve from Filecoin (colder storage) or from an intermediate caching layer, like IPFS? How will your application/UI retrieve the necessary data and expose it/interact with it in the UI?*
+*We will retrieve data from IPFS. And we will store our great music in filecoin for long-term back up.*
 
 ## (11) Who is the intended user for your application/UI?
 
